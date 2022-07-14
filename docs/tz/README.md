@@ -10,7 +10,7 @@ Backend
     - Symfony 6+
     - PostgreSQL
     - API Platform
-    - JWR
+    - JWT
     - CRON
   
 Frontend
